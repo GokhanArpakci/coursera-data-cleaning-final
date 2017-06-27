@@ -7,9 +7,9 @@ Merges the training and the test sets to create one data sets as:
 3. Appropriately labels the data set with descriptive variable names.
 4. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 ## File Contents
-1. 'run_analysis.R'
-2. 'data_tools.R'
-3. 'CodeBook.md'
+1. `run_analysis.R`
+2. `data_tools.R`
+3. `CodeBook.md`
 4. Data/
 
 'CodeBook.md' 
