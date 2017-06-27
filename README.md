@@ -12,5 +12,19 @@ Merges the training and the test sets to create one data sets as:
 3. `CodeBook.md`
 4. Data/
 
-'CodeBook.md' 
-Analysis that performs the following steps:
+## Content Descriptions
+
+### `run_analysis.R`
+R script for analyzing the data 
+
+### `data_tools.R`
+
+Function to download, validate and source the data
+
+### `CodeBook.md`
+
+Variable Descriptions
+
+### Data/
+
+The raw data used for analysis: Human Activity Recognition Using Smartphones Data Set (Source: UCI Machine Learning Repository)
