@@ -122,4 +122,3 @@ Mean and standard deviation measurement variables extracted from raw datasets in
 • `fBodyBodyGyroJerkMagMean`
 • `fBodyBodyGyroJerkMagStd`
 • `fBodyBodyGyroJerkMagMeanFreq`
-
